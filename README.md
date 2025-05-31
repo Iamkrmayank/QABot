@@ -7,3 +7,7 @@ This project demonstrates a question-answering chatbot using a distilled BERT mo
 ### 1. Install dependencies:
 ```bash
 pip install -r requirements.txt
+```
+
+To see the trained student model prefer Student_Model folder for the same
+
